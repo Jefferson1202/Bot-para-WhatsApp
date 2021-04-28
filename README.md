@@ -1,6 +1,6 @@
 # Bot para WhatsApp
 
-### Bot WhatsApp, o que é?
+#### Bot WhatsApp, o que é?
 * Bots são robôs que desempenham tarefas automatizadas pré-definidas, amplamente utilizados em uma série de plataformas e serviços online. No WhatsApp, os bots ainda são ferramentas recentes, mas contam com funcionalidades interessantes na versão comercial do aplicativo de mensagens.
 
 ## IDE
